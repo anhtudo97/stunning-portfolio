@@ -44,7 +44,7 @@ export const HeroSection = () => {
           <SparkleIcon className="size-8 text-emerald-300/20" />
         </HeroOrbit>
         <HeroOrbit size={440} rotation={-79}>
-          <SparkleIcon assName="size-5 text-emerald-300/20" />
+          <SparkleIcon className="size-5 text-emerald-300/20" />
         </HeroOrbit>
         <HeroOrbit size={530} rotation={178}>
           <SparkleIcon className="size-10 text-emerald-300/20" />
@@ -79,7 +79,7 @@ export const HeroSection = () => {
         </div>
 
         <div className="max-w-lg mx-auto">
-          <h1 className="font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide">Building Exceptional User Experiences</h1>
+          <h1 className="font-serif text-3xl md:text-5xl text-center mt-8 tracking-widest">Building Exceptional User Experiences</h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
             I specialize in transforming designs into functional, high-performing web applications. Let&rsquo;s discuss your next project.
           </p>
